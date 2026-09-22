@@ -54,7 +54,6 @@ Employee attrition is one of the most costly challenges for organizations. Repla
 | Attribute | Value |
 |-----------|-------|
 | **Source** | IBM HR Analytics Employee Attrition & Performance (Kaggle) |
-| **Link** | https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?resource=download |
 | **Rows** | 1,470 employees |
 | **Features** | 35 original columns |
 | **Target Variable** | `Attrition` (Yes / No) |
